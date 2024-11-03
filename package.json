@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Backend complete prod version 1.0.1",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "javascript",
@@ -15,5 +16,8 @@
     "api"
   ],
   "author": "Ashutosh",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
