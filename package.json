@@ -1,0 +1,19 @@
+{
+  "name": "backend-prod-version",
+  "version": "1.0.0",
+  "description": "Backend complete prod version 1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "javascript",
+    "react",
+    "backend",
+    "node",
+    "express",
+    "api"
+  ],
+  "author": "Ashutosh",
+  "license": "ISC"
+}
